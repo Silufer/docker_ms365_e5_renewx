@@ -39,7 +39,7 @@ docker run -d \
 gladtbam/ms365_e5_renewx:latest
 ```
 
-**Put Config.xml into the Deploy folder**  
+>PS: Put the Config.xml file into the Deploy folder
 
 
 ### DockerCompose **Recommended**
